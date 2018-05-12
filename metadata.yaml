@@ -1,0 +1,31 @@
+_repo: The-Raid-on-the-Termites_27248
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ernst, Paul
+    alias: Ernst, Paul Frederick
+    birthdate: 1899
+    deathdate: 1985
+    gutenberg_agent_id: '25157'
+    url: http://www.gutenberg.org/2009/agents/25157
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Ernst_(Avenger_writer)
+description: ''
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Raid on the Termites
+url: http://www.gutenberg.org/ebooks/27248
